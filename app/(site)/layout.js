@@ -60,6 +60,7 @@ const Headers = () => {
     <head>
       <meta charSet="UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <link rel="icon" href="../favicon.ico" />
       <meta name="title" content="Flexy"/>
       <meta name="description" content="Você quer se sentir mais saudável, ter uma vida mais ativa ou sair do sedentarismo? Então venha que o centro fitness Flexy vai te ajudar, a melhor opção custo benefício para você."/>
       <meta name="author" content="Flexy"/>
