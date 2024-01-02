@@ -51,11 +51,17 @@ npm run dev
 As páginas do site foram inspiradas em modelos contemporâneos de websites, tendo como adição a escolha de cores vibrantes para uma sensação de energia e ação.
 
 ### Mobile
-![image](https://github.com/Felipe-Harrison/Flexy/assets/76136248/df492627-eff5-4bd1-a7c1-401ecad6c886)
-![image](https://github.com/Felipe-Harrison/Flexy/assets/76136248/f86742bb-c34a-4ef3-8d96-332a5e5399b6)
 
-### Mobile (Dark)
-![image](https://github.com/Felipe-Harrison/Flexy/assets/76136248/4ed9f83b-906d-4a0c-acec-f228aa46556d)
+<div align='center'>
+<img src="https://github.com/Felipe-Harrison/Flexy/assets/76136248/df492627-eff5-4bd1-a7c1-401ecad6c886" height="500" width="400" />
+<img src="https://github.com/Felipe-Harrison/Flexy/assets/76136248/4ed9f83b-906d-4a0c-acec-f228aa46556d" height="500" width="400" />
+</div>
+
+### Mobile Sidebar
+
+<div align='center'>
+<img src="https://github.com/Felipe-Harrison/Flexy/assets/76136248/f86742bb-c34a-4ef3-8d96-332a5e5399b6" height="500" width="400" />
+</div>
 
 ### Desktop 
 ![image](https://github.com/Felipe-Harrison/Flexy/assets/76136248/3db251c4-7557-4ef9-a208-a8faddcb005f)
